@@ -2,9 +2,6 @@
   <h3 align="center">
    🚀 Software Developer | 🌐 Front-End Enthusiast (Angular) | 💡 Problem Solver </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahmadkour&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmadkour" />
-</p>
 
 🧑‍💻 About Me
 - 🔭 I’m currently working on [Effica]
