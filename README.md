@@ -1,14 +1,16 @@
  <h1 align="center">Hi 👋, I'm Rawan M Ali</h1>
   <h3 align="center">
-   🚀 Software Developer | 🌐 Front-End Enthusiast (Angular) | 💡 Problem Solver </h3>
+   🚀 Full-Stack MEAN Developer | 🌐 Front-End | 💡 Problem Solver  </h3>
 
 
 🧑‍💻 About Me
-- 🔭 I’m currently working on [Effica]
-- 🌱 I’m learning [node.js , mongoDB]
-- 💬 Ask me about Angular, Bootstrap, and UI design
-- 📫 How to reach me: [rawanmohamedd365@gmail.com]
+I’m a Full-Stack Developer specializing in the MEAN stack (MongoDB, Express, Angular, Node.js).  
+I enjoy building scalable web applications, writing clean code, and turning real requirements into working features.
 
+🔭 Currently working on: EDU-kids  
+🌱 Currently learning: Advanced Node.js, MongoDB optimization, backend best practices  
+💬 Ask me about: Angular, REST APIs, UI design, and full-stack web development  
+📫 How to reach me: rawanmohamedd365@gmail.com  
 🔧 Tech Stack
 - Frontend: Angular, Bootstrap, HTML5, SCSS, TypeScript
 - Tools: Git, GitHub, VS Code
